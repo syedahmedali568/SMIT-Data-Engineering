@@ -1,0 +1,3 @@
+writing into file with append as inputwriting into file with a as input
+writing into file with a as input
+writing into file with a as input
